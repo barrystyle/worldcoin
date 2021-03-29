@@ -1995,7 +1995,7 @@ bool ProcessMessage(CNode* pfrom, const std::string& msg_type, CDataStream& vRec
             cleanSubVer = SanitizeString(strSubVer);
         }
         if (!pfrom->m_client_verified) {
-            if (cleanSubVer.find("Worldcoin") != std::string::npos) {
+            if (cleanSubVer.find("orld") != std::string::npos) {
                 pfrom->m_client_verified = true;
             } else {
                 LogPrint(BCLog::NET, "peer=%d not a worldcoin-compatible client; disconnecting\n", pfrom->GetId());
