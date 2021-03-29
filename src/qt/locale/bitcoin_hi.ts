@@ -66,11 +66,11 @@
         <translation>पता प्राप्त किए जा रहें हैं</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Worldcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>भुगतान करने के लिए ये आपके बिटकॉइन पता हैं। कॉइन भेजने से पहले राशि और गंतव्य पता की हमेशा जाँच करें </translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.</source>
+        <source>These are your Worldcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.</source>
         <translation>भुगतान प्राप्त करने के लिए ये आपके बिटकॉइन पता हैं। नया पता बनाने के लिए रिसीव टैब में 'नया पता बनाएं' बटन का प्रयोग करें</translation>
     </message>
     <message>
@@ -323,7 +323,7 @@
         <translation>तिजोरी</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Worldcoin address</source>
         <translation>इस पते पर बिटकौइन भेजें</translation>
     </message>
     <message>
@@ -464,7 +464,7 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Bitcoin</source>
+        <source>Worldcoin</source>
         <translation>बीटकोइन</translation>
     </message>
     <message>

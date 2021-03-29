@@ -66,11 +66,11 @@
         <translation>收款位址</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>這些是你要付款過去的 Bitcoin 位址。在付錢之前，務必要檢查金額和收款位址是否正確。</translation>
+        <source>These are your Worldcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>這些是你要付款過去的 Worldcoin 位址。在付錢之前，務必要檢查金額和收款位址是否正確。</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.</source>
+        <source>These are your Worldcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.</source>
         <translation>這些是您用於接收付款的比特幣位址。 使用接收分頁中的"生成新接收位址"按鈕創建新的位置。</translation>
     </message>
     <message>
@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation>警告: 如果把錢包加密後又忘記密碼，你就會從此&lt;b&gt;失去其中所有的 Bitcoin 了&lt;/b&gt;！</translation>
+        <translation>警告: 如果把錢包加密後又忘記密碼，你就會從此&lt;b&gt;失去其中所有的 Worldcoin 了&lt;/b&gt;！</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -362,8 +362,8 @@
         <translation>代理伺服器&lt;b&gt;已經啟用&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation>付錢給一個 Bitcoin 位址</translation>
+        <source>Send coins to a Worldcoin address</source>
+        <translation>付錢給一個 Worldcoin 位址</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -398,12 +398,12 @@
         <translation>將錢包中之密鑰加密</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>用 Bitcoin 位址簽署訊息來證明位址是你的</translation>
+        <source>Sign messages with your Worldcoin addresses to prove you own them</source>
+        <translation>用 Worldcoin 位址簽署訊息來證明位址是你的</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>驗證訊息是用來確定訊息是用指定的 Bitcoin 位址簽署的</translation>
+        <source>Verify messages to ensure they were signed with specified Worldcoin addresses</source>
+        <translation>驗證訊息是用來確定訊息是用指定的 Worldcoin 位址簽署的</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -422,7 +422,7 @@
         <translation>分頁工具列</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and bitcoin: URIs)</source>
+        <source>Request payments (generates QR codes and worldcoin: URIs)</source>
         <translation>要求付款(產生 QR Code 和 bitcoin 付款協議的資源識別碼: URI)</translation>
     </message>
     <message>
@@ -438,8 +438,8 @@
         <translation>命令列選項(&amp;C)</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n 個運作中的 Bitcoin 網路連線</numerusform></translation>
+        <source>%n active connection(s) to Worldcoin network</source>
+        <translation><numerusform>%n 個運作中的 Worldcoin 網路連線</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -498,7 +498,7 @@
         <translation>收款位址(&amp;R)</translation>
     </message>
     <message>
-        <source>Open a bitcoin: URI</source>
+        <source>Open a worldcoin: URI</source>
         <translation>打開一個比特幣：URI</translation>
     </message>
     <message>
@@ -518,7 +518,7 @@
         <translation>關上錢包</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the %1 help message to get a list with possible Worldcoin command-line options</source>
         <translation>顯示 %1 的說明訊息，來取得可用命令列選項的列表</translation>
     </message>
     <message>
@@ -630,8 +630,8 @@
         <translation>錢包&lt;b&gt;已加密&lt;/b&gt;並且&lt;b&gt;上鎖中&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>發生了致命的錯誤。Bitcoin 軟體沒辦法再繼續安全執行，只好結束。</translation>
+        <source>A fatal error occurred. Worldcoin can no longer continue safely and will quit.</source>
+        <translation>發生了致命的錯誤。Worldcoin 軟體沒辦法再繼續安全執行，只好結束。</translation>
     </message>
 </context>
 <context>
@@ -870,8 +870,8 @@
         <translation>編輯付款位址</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>輸入的位址 %1 並不是有效的 Bitcoin 位址。</translation>
+        <source>The entered address "%1" is not a valid Worldcoin address.</source>
+        <translation>輸入的位址 %1 並不是有效的 Worldcoin 位址。</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -967,8 +967,8 @@
         <translation>使用自訂的資料目錄:</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Worldcoin</source>
+        <translation>Worldcoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -979,8 +979,8 @@
         <translation>在這個目錄中大約會存放 %1 GB 的資料。</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Bitcoin block chain.</source>
-        <translation>%1 會下載 Bitcoin 區塊鏈並且儲存一份副本。</translation>
+        <source>%1 will download and store a copy of the Worldcoin block chain.</source>
+        <translation>%1 會下載 Worldcoin 區塊鏈並且儲存一份副本。</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1128,7 +1128,7 @@
     </message>
     <message>
         <source>Use separate SOCKS&amp;5 proxy to reach peers via Tor hidden services:</source>
-        <translation>透過另外的 SOCKS&amp;5 代理伺服器來連線到 Bitcoin 網路中的 Tor 隱藏服務:</translation>
+        <translation>透過另外的 SOCKS&amp;5 代理伺服器來連線到 Worldcoin 網路中的 Tor 隱藏服務:</translation>
     </message>
     <message>
         <source>Hide the icon from the system tray.</source>
@@ -1211,8 +1211,8 @@
         <translation>可以花還沒確認的零錢(&amp;S)</translation>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自動在路由器上開放 Bitcoin 的客戶端通訊埠。只有在你的路由器支援且開啓「通用即插即用」協定(UPnP)時才有作用。</translation>
+        <source>Automatically open the Worldcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>自動在路由器上開放 Worldcoin 的客戶端通訊埠。只有在你的路由器支援且開啓「通用即插即用」協定(UPnP)時才有作用。</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1227,8 +1227,8 @@
         <translation>接受外來連線(&amp;G)</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>透過 SOCKS5 代理伺服器來連線到 Bitcoin 網路。</translation>
+        <source>Connect to the Worldcoin network through a SOCKS5 proxy.</source>
+        <translation>透過 SOCKS5 代理伺服器來連線到 Worldcoin 網路。</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1263,8 +1263,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>透過另外的 SOCKS5 代理伺服器來連線到 Bitcoin 網路中的 Tor 隱藏服務。</translation>
+        <source>Connect to the Worldcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>透過另外的 SOCKS5 代理伺服器來連線到 Worldcoin 網路中的 Tor 隱藏服務。</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1374,8 +1374,8 @@
         <translation>表單</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>顯示的資訊可能是過期的。跟 Bitcoin 網路的連線建立後，你的錢包會自動和網路同步，但是這個步驟還沒完成。</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Worldcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>顯示的資訊可能是過期的。跟 Worldcoin 網路的連線建立後，你的錢包會自動和網路同步，但是這個步驟還沒完成。</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1449,7 +1449,7 @@
         <translation>要求付款時發生錯誤</translation>
     </message>
     <message>
-        <source>Cannot start bitcoin: click-to-pay handler</source>
+        <source>Cannot start worldcoin: click-to-pay handler</source>
         <translation>沒辦法啟動 bitcoin 協議的「按就付」處理器</translation>
     </message>
     <message>
@@ -1458,7 +1458,7 @@
     </message>
     <message>
         <source>'bitcoin://' is not a valid URI. Use 'bitcoin:' instead.</source>
-        <translation>字首為 bitcoin:// 不是有效的 URI，請改用 bitcoin: 開頭。</translation>
+        <translation>字首為 bitcoin:// 不是有效的 URI，請改用 worldcoin: 開頭。</translation>
     </message>
     <message>
         <source>Cannot process payment request because BIP70 is not supported.</source>
@@ -1477,8 +1477,8 @@
         <translation>無效的付款位址 %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>沒辦法解析 URI 位址！可能是因為 Bitcoin 位址無效，或是 URI 參數格式錯誤。</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Worldcoin address or malformed URI parameters.</source>
+        <translation>沒辦法解析 URI 位址！可能是因為 Worldcoin 位址無效，或是 URI 參數格式錯誤。</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1519,8 +1519,8 @@
         <translation>金額</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>輸入 Bitcoin 位址 (比如說 %1)</translation>
+        <source>Enter a Worldcoin address (e.g. %1)</source>
+        <translation>輸入 Worldcoin 位址 (比如說 %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1988,8 +1988,8 @@
         <translation>訊息(&amp;M):</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>附加在付款要求中的訊息，可以不填，打開要求內容時會顯示。注意: 這個訊息不會隨著付款送到 Bitcoin 網路上。</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Worldcoin network.</source>
+        <translation>附加在付款要求中的訊息，可以不填，打開要求內容時會顯示。注意: 這個訊息不會隨著付款送到 Worldcoin 網路上。</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2449,8 +2449,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation><numerusform>预计在等待 %n 个区块后会有第一个确认。</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation>警告: Bitcoin 位址無效</translation>
+        <source>Warning: Invalid Worldcoin address</source>
+        <translation>警告: Worldcoin 位址無效</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2488,8 +2488,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>選擇先前使用過的位址</translation>
     </message>
     <message>
-        <source>The Bitcoin address to send the payment to</source>
-        <translation>接收付款的 Bitcoin 位址</translation>
+        <source>The Worldcoin address to send the payment to</source>
+        <translation>接收付款的 Worldcoin 位址</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2540,8 +2540,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>請輸入這個位址的標記，來把它加進去已使用過位址的清單。</translation>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>附加在 Bitcoin 付款協議的資源識別碼(URI)中的訊息，會和交易內容一起存起來，給你自己做參考。注意: 這個訊息不會送到 Bitcoin 網路上。</translation>
+        <source>A message that was attached to the worldcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Worldcoin network.</source>
+        <translation>附加在 Worldcoin 付款協議的資源識別碼(URI)中的訊息，會和交易內容一起存起來，給你自己做參考。注意: 這個訊息不會送到 Worldcoin 網路上。</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2578,8 +2578,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>你可以用自己的位址簽署訊息或合約，來證明你可以從該位址收款。但是請小心，不要簽署語意含糊不清，或隨機產生的內容，因為釣魚式詐騙可能會用騙你簽署的手法來冒充是你。只有在語句中的細節你都同意時才簽署。</translation>
     </message>
     <message>
-        <source>The Bitcoin address to sign the message with</source>
-        <translation>用來簽署訊息的 Bitcoin 位址</translation>
+        <source>The Worldcoin address to sign the message with</source>
+        <translation>用來簽署訊息的 Worldcoin 位址</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2610,8 +2610,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>複製目前的簽章到系統剪貼簿</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>簽署這個訊息來證明這個 Bitcoin 位址是你的</translation>
+        <source>Sign the message to prove you own this Worldcoin address</source>
+        <translation>簽署這個訊息來證明這個 Worldcoin 位址是你的</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2634,8 +2634,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>請在下面輸入收款人的位址，訊息(請確定完整複製了所包含的換行，空格，跳位符號等等)，以及簽章，來驗證這個訊息。請小心，除了訊息內容以外，不要對簽章本身過度解讀，以避免被用「中間人攻擊法」詐騙。請注意，通過驗證的簽章只能證明簽章人確實可以從該位址收款，不能證明任何交易中的付款人身份！</translation>
     </message>
     <message>
-        <source>The Bitcoin address the message was signed with</source>
-        <translation>簽署這個訊息的 Bitcoin 位址</translation>
+        <source>The Worldcoin address the message was signed with</source>
+        <translation>簽署這個訊息的 Worldcoin 位址</translation>
     </message>
     <message>
         <source>The signed message to verify</source>
@@ -2646,8 +2646,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>簽名訊息時給出的簽名</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>驗證這個訊息來確定是用指定的 Bitcoin 位址簽署的</translation>
+        <source>Verify the message to ensure it was signed with the specified Worldcoin address</source>
+        <translation>驗證這個訊息來確定是用指定的 Worldcoin 位址簽署的</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>

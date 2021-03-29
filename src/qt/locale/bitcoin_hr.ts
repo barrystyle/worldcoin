@@ -66,12 +66,12 @@
         <translation>Adrese primatelja</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ovo su vaše Bitcoin adrese za slanje novca. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your Worldcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ovo su vaše Worldcoin adrese za slanje novca. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.</source>
-        <translation>Ovo su vaše Bitcoin adrese za primanje novca. Preporučeno je da koristite novu primateljsku adresu za svaku transakciju.</translation>
+        <source>These are your Worldcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.</source>
+        <translation>Ovo su vaše Worldcoin adrese za primanje novca. Preporučeno je da koristite novu primateljsku adresu za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -362,8 +362,8 @@
         <translation>Proxy je &lt;b&gt;uključen&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation>Pošaljite novac na Bitcoin adresu</translation>
+        <source>Send coins to a Worldcoin address</source>
+        <translation>Pošaljite novac na Worldcoin adresu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -398,12 +398,12 @@
         <translation>Šifrirajte privatne ključeve u novčaniku</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Poruku potpišemo s Bitcoin adresom, kako bi dokazali vlasništvo nad tom adresom</translation>
+        <source>Sign messages with your Worldcoin addresses to prove you own them</source>
+        <translation>Poruku potpišemo s Worldcoin adresom, kako bi dokazali vlasništvo nad tom adresom</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Provjerite poruku da je potpisana s navedenom Bitcoin adresom</translation>
+        <source>Verify messages to ensure they were signed with specified Worldcoin addresses</source>
+        <translation>Provjerite poruku da je potpisana s navedenom Worldcoin adresom</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -422,8 +422,8 @@
         <translation>Traka kartica</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Zatražite uplatu (stvara QR kod i bitcoin: URI adresu)</translation>
+        <source>Request payments (generates QR codes and worldcoin: URIs)</source>
+        <translation>Zatražite uplatu (stvara QR kod i worldcoin: URI adresu)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -438,8 +438,8 @@
         <translation>Opcije &amp;naredbene linije</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktivna veza na Bitcoin mrežu</numerusform><numerusform>%n aktivnih veza na Bitcoin mrežu</numerusform><numerusform>%n aktivnih veza na Bitcoin mrežu</numerusform></translation>
+        <source>%n active connection(s) to Worldcoin network</source>
+        <translation><numerusform>%n aktivna veza na Worldcoin mrežu</numerusform><numerusform>%n aktivnih veza na Worldcoin mrežu</numerusform><numerusform>%n aktivnih veza na Worldcoin mrežu</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -498,8 +498,8 @@
         <translation>Adrese za &amp;primanje</translation>
     </message>
     <message>
-        <source>Open a bitcoin: URI</source>
-        <translation>Otvori bitcoin: URI</translation>
+        <source>Open a worldcoin: URI</source>
+        <translation>Otvori worldcoin: URI</translation>
     </message>
     <message>
         <source>Open Wallet</source>
@@ -518,7 +518,7 @@
         <translation>Zatvorite novčanik</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the %1 help message to get a list with possible Worldcoin command-line options</source>
         <translation>Prikažite pomoć programa %1 kako biste ispisali moguće opcije preko terminala</translation>
     </message>
     <message>
@@ -629,8 +629,8 @@
         <translation>Novčanik je &lt;b&gt;šifriran&lt;/b&gt; i trenutno &lt;b&gt;zaključan&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>Dogodila se kobna greška. Bitcoin ne može više sigurno nastaviti te će se zatvoriti.</translation>
+        <source>A fatal error occurred. Worldcoin can no longer continue safely and will quit.</source>
+        <translation>Dogodila se kobna greška. Worldcoin ne može više sigurno nastaviti te će se zatvoriti.</translation>
     </message>
 </context>
 <context>
@@ -873,8 +873,8 @@
         <translation>Uredi adresu za slanje</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Upisana adresa "%1" nije valjana Bitcoin adresa.</translation>
+        <source>The entered address "%1" is not a valid Worldcoin address.</source>
+        <translation>Upisana adresa "%1" nije valjana Worldcoin adresa.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -970,8 +970,8 @@
         <translation>Odaberite različitu podatkovnu mapu:</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Worldcoin</source>
+        <translation>Worldcoin</translation>
     </message>
     <message>
         <source>Discard blocks after verification, except most recent %1 GB (prune)</source>
@@ -986,7 +986,7 @@
         <translation>Otprilike %1 GB podataka bit će spremljeno u ovoj mapi.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Bitcoin block chain.</source>
+        <source>%1 will download and store a copy of the Worldcoin block chain.</source>
         <translation>%1 preuzet će i pohraniti kopiju Bitcoinovog lanca blokova.</translation>
     </message>
     <message>
@@ -1214,8 +1214,8 @@
         <translation>&amp;Trošenje nepotvrđenih vraćenih iznosa</translation>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvori port Bitcoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
+        <source>Automatically open the Worldcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvori port Worldcoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1230,8 +1230,8 @@
         <translation>Dozvolite dolazeće veze</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>Spojite se na Bitcoin mrežu kroz SOCKS5 proxy.</translation>
+        <source>Connect to the Worldcoin network through a SOCKS5 proxy.</source>
+        <translation>Spojite se na Worldcoin mrežu kroz SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1266,8 +1266,8 @@
         <translation>Tora</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Spojite se na Bitcoin mrežu kroz zaseban SOCKS5 proxy za povezivanje na Tor.</translation>
+        <source>Connect to the Worldcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Spojite se na Worldcoin mrežu kroz zaseban SOCKS5 proxy za povezivanje na Tor.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1377,8 +1377,8 @@
         <translation>Oblik</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s Bitcoin mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Worldcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s Worldcoin mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1452,7 +1452,7 @@
         <translation>Greška kod zahtjeva za plaćanje</translation>
     </message>
     <message>
-        <source>Cannot start bitcoin: click-to-pay handler</source>
+        <source>Cannot start worldcoin: click-to-pay handler</source>
         <translation>Ne može se pokrenuti klijent: rukovatelj "kliknite da platite"</translation>
     </message>
     <message>
@@ -1476,8 +1476,8 @@
         <translation>Nevažeća adresa za plaćanje %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>Ne može se parsirati URI! Uzrok tomu može biti nevažeća Bitcoin adresa ili neispravni parametri kod URI-a.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Worldcoin address or malformed URI parameters.</source>
+        <translation>Ne može se parsirati URI! Uzrok tomu može biti nevažeća Worldcoin adresa ili neispravni parametri kod URI-a.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1518,8 +1518,8 @@
         <translation>Iznos</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Unesite Bitcoin adresu (npr. %1)</translation>
+        <source>Enter a Worldcoin address (e.g. %1)</source>
+        <translation>Unesite Worldcoin adresu (npr. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1979,8 +1979,8 @@
         <translation>&amp;Poruka:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>Opcionalna poruka koja se može dodati kao privitak zahtjevu za plaćanje. Bit će prikazana kad je zahtjev otvoren. Napomena: Ova poruka neće biti poslana zajedno s uplatom preko Bitcoin mreže.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Worldcoin network.</source>
+        <translation>Opcionalna poruka koja se može dodati kao privitak zahtjevu za plaćanje. Bit će prikazana kad je zahtjev otvoren. Napomena: Ova poruka neće biti poslana zajedno s uplatom preko Worldcoin mreže.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2408,8 +2408,8 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation><numerusform>Procijenjeno je da će početi potvrđivanje unutar %n bloka.</numerusform><numerusform>Procijenjeno je da će početi potvrđivanje unutar %n bloka.</numerusform><numerusform>Procijenjeno je da će početi potvrđivanje unutar %n blokova.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation>Upozorenje: Nevažeća Bitcoin adresa</translation>
+        <source>Warning: Invalid Worldcoin address</source>
+        <translation>Upozorenje: Nevažeća Worldcoin adresa</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2447,8 +2447,8 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>Odaberite prethodno korištenu adresu</translation>
     </message>
     <message>
-        <source>The Bitcoin address to send the payment to</source>
-        <translation>Bitcoin adresa na koju ćete poslati uplatu</translation>
+        <source>The Worldcoin address to send the payment to</source>
+        <translation>Worldcoin adresa na koju ćete poslati uplatu</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2499,8 +2499,8 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>Unesite oznaku za ovu adresu kako bi ju dodali u vaš adresar</translation>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Poruka koja je dodana uplati: URI koji će biti spremljen s transakcijom za referencu. Napomena: Ova poruka neće biti poslana preko Bitcoin mreže.</translation>
+        <source>A message that was attached to the worldcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Worldcoin network.</source>
+        <translation>Poruka koja je dodana uplati: URI koji će biti spremljen s transakcijom za referencu. Napomena: Ova poruka neće biti poslana preko Worldcoin mreže.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2537,8 +2537,8 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>Možete potpisati poruke/dogovore svojim adresama kako biste dokazali da možete pristupiti bitcoinima poslanim na te adrese. Budite oprezni da ne potpisujte ništa nejasno ili nasumično, jer napadi phishingom vas mogu prevariti da prepišite svoj identitet njima. Potpisujte samo detaljno objašnjene izjave s kojima se slažete.</translation>
     </message>
     <message>
-        <source>The Bitcoin address to sign the message with</source>
-        <translation>Bitcoin adresa pomoću koje ćete potpisati poruku</translation>
+        <source>The Worldcoin address to sign the message with</source>
+        <translation>Worldcoin adresa pomoću koje ćete potpisati poruku</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2569,8 +2569,8 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>Kopirajte trenutni potpis u međuspremnik</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Potpišite poruku kako biste dokazali da posjedujete ovu Bitcoin adresu</translation>
+        <source>Sign the message to prove you own this Worldcoin address</source>
+        <translation>Potpišite poruku kako biste dokazali da posjedujete ovu Worldcoin adresu</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2593,12 +2593,12 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>Unesite primateljevu adresu, poruku (provjerite da kopirate prekide crta, razmake, tabove, itd. točno) i potpis ispod da provjerite poruku. Pazite da ne pridodate veće značenje potpisu nego što je sadržano u samoj poruci kako biste izbjegli napad posrednika (MITM attack). Primijetite da ovo samo dokazuje da stranka koja potpisuje prima na adresu. Ne može dokažati da je neka stranka poslala transakciju!</translation>
     </message>
     <message>
-        <source>The Bitcoin address the message was signed with</source>
-        <translation>Bitcoin adresa kojom je poruka potpisana</translation>
+        <source>The Worldcoin address the message was signed with</source>
+        <translation>Worldcoin adresa kojom je poruka potpisana</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Provjerite poruku da budete sigurni da je potpisana zadanom Bitcoin adresom</translation>
+        <source>Verify the message to ensure it was signed with the specified Worldcoin address</source>
+        <translation>Provjerite poruku da budete sigurni da je potpisana zadanom Worldcoin adresom</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>

@@ -37,7 +37,7 @@ private:
         ~HandleCallback();
     };
 
-    //! Bitcoin application.
+    //! Worldcoin application.
     BitcoinApplication& m_app;
 
     //! Set of pending callback names. Used to track expected callbacks and shut

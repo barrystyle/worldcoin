@@ -323,7 +323,7 @@ void RandAddStaticEnv(CSHA512& hasher)
     hasher.Write((const unsigned char*)COMPILER_VERSION, strlen(COMPILER_VERSION) + 1);
 #endif
 
-    // Bitcoin client version
+    // Worldcoin client version
     hasher << CLIENT_VERSION;
 
 #ifdef __linux__

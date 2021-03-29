@@ -58,12 +58,12 @@
         <translation>Alıcı adresler</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Worldcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Bunlar Bitcoinleriniz için gönderici adreslerinizdir.
 Gönderim yapmadan önce her zaman tutarı ve alıcı adresi kontrol ediniz.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.</source>
+        <source>These are your Worldcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.</source>
         <translation>Bunlar Bitcoinleriniz için alıcı adreslerinizdir.
 Yeni adres oluşturmak için alım sekmesinden 'Yeni alıcı adresi oluşturun' düğmesini kullanınız.</translation>
     </message>
@@ -530,8 +530,8 @@ Cüzdan kilidini aç.</translation>
         <translation>Hoş geldiniz </translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Worldcoin</source>
+        <translation>Worldcoin</translation>
     </message>
     <message>
         <source>Error</source>

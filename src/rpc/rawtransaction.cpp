@@ -972,7 +972,7 @@ static std::string WriteHDKeypath(std::vector<uint32_t>& keypath)
 UniValue decodepsbt(const JSONRPCRequest& request)
 {
             RPCHelpMan{"decodepsbt",
-                "\nReturn a JSON object representing the serialized, base64-encoded partially signed Bitcoin transaction.\n",
+                "\nReturn a JSON object representing the serialized, base64-encoded partially signed Worldcoin transaction.\n",
                 {
                     {"psbt", RPCArg::Type::STR, RPCArg::Optional::NO, "The PSBT base64 string"},
                 },
@@ -1003,7 +1003,7 @@ UniValue decodepsbt(const JSONRPCRequest& request)
                                         {RPCResult::Type::STR, "asm", "The asm"},
                                         {RPCResult::Type::STR_HEX, "hex", "The hex"},
                                         {RPCResult::Type::STR, "type", "The type, eg 'pubkeyhash'"},
-                                        {RPCResult::Type::STR, "address"," Bitcoin address if there is one"},
+                                        {RPCResult::Type::STR, "address"," Worldcoin address if there is one"},
                                     }},
                                 }},
                                 {RPCResult::Type::OBJ_DYN, "partial_signatures", /* optional */ true, "",
@@ -1281,7 +1281,7 @@ UniValue decodepsbt(const JSONRPCRequest& request)
 UniValue combinepsbt(const JSONRPCRequest& request)
 {
             RPCHelpMan{"combinepsbt",
-                "\nCombine multiple partially signed Bitcoin transactions into one transaction.\n"
+                "\nCombine multiple partially signed Worldcoin transactions into one transaction.\n"
                 "Implements the Combiner role.\n",
                 {
                     {"txs", RPCArg::Type::ARR, RPCArg::Optional::NO, "The base64 strings of partially signed transactions",

@@ -66,12 +66,12 @@
         <translation>Adreces de recepció</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Aquestes són les vostres adreces de Bitcoin per enviar els pagaments. Sempre reviseu l'import i l'adreça del destinatari abans de transferir monedes.</translation>
+        <source>These are your Worldcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Aquestes són les vostres adreces de Worldcoin per enviar els pagaments. Sempre reviseu l'import i l'adreça del destinatari abans de transferir monedes.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.</source>
-        <translation>Aquestes són les teves adreces Bitcoin per rebre pagaments. Utilitza el botó "Crear nova adreça de recepció" de la pestanya de recepció per crear noves adreces.</translation>
+        <source>These are your Worldcoin addresses for receiving payments. Use the 'Create new receiving address' button in the receive tab to create new addresses.</source>
+        <translation>Aquestes són les teves adreces Worldcoin per rebre pagaments. Utilitza el botó "Crear nova adreça de recepció" de la pestanya de recepció per crear noves adreces.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -362,8 +362,8 @@
         <translation>El servidor proxy està &lt;b&gt;activat&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation>Envia monedes a una adreça Bitcoin</translation>
+        <source>Send coins to a Worldcoin address</source>
+        <translation>Envia monedes a una adreça Worldcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -398,12 +398,12 @@
         <translation>Encripta les claus privades pertanyents de la cartera</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Signa el missatges amb la seva adreça de Bitcoin per provar que les poseeixes</translation>
+        <source>Sign messages with your Worldcoin addresses to prove you own them</source>
+        <translation>Signa el missatges amb la seva adreça de Worldcoin per provar que les poseeixes</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verifiqueu els missatges per assegurar-vos que han estat signats amb una adreça Bitcoin específica.</translation>
+        <source>Verify messages to ensure they were signed with specified Worldcoin addresses</source>
+        <translation>Verifiqueu els missatges per assegurar-vos que han estat signats amb una adreça Worldcoin específica.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -422,8 +422,8 @@
         <translation>Barra d'eines de les pestanyes</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Sol·licita pagaments (genera codis QR i bitcoin: URI)</translation>
+        <source>Request payments (generates QR codes and worldcoin: URIs)</source>
+        <translation>Sol·licita pagaments (genera codis QR i worldcoin: URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -438,8 +438,8 @@
         <translation>Opcions de la &amp;línia d'ordres</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>Una connexió activa a la xarxa de Bitcoin</numerusform><numerusform>%n connexions actives a la xarxa de Bitcoin</numerusform></translation>
+        <source>%n active connection(s) to Worldcoin network</source>
+        <translation><numerusform>Una connexió activa a la xarxa de Worldcoin</numerusform><numerusform>%n connexions actives a la xarxa de Worldcoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -498,8 +498,8 @@
         <translation>Adreces de &amp;recepció</translation>
     </message>
     <message>
-        <source>Open a bitcoin: URI</source>
-        <translation>Obrir un bitcoin: URI</translation>
+        <source>Open a worldcoin: URI</source>
+        <translation>Obrir un worldcoin: URI</translation>
     </message>
     <message>
         <source>Open Wallet</source>
@@ -518,8 +518,8 @@
         <translation>Tanca la cartera</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Mostra el missatge d'ajuda del %1 per obtenir una llista amb les possibles opcions de línia d'ordres de Bitcoin</translation>
+        <source>Show the %1 help message to get a list with possible Worldcoin command-line options</source>
+        <translation>Mostra el missatge d'ajuda del %1 per obtenir una llista amb les possibles opcions de línia d'ordres de Worldcoin</translation>
     </message>
     <message>
         <source>default wallet</source>
@@ -630,8 +630,8 @@
         <translation>La cartera està &lt;b&gt;encriptada&lt;/b&gt; i actualment &lt;b&gt;blocada&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>S'ha produït un error fatal. Bitcoin no pot continuar amb seguretat i finalitzarà.</translation>
+        <source>A fatal error occurred. Worldcoin can no longer continue safely and will quit.</source>
+        <translation>S'ha produït un error fatal. Worldcoin no pot continuar amb seguretat i finalitzarà.</translation>
     </message>
 </context>
 <context>
@@ -875,8 +875,8 @@ Això és ideal per a carteres de mode només lectura.</translation>
         <translation>Edita l'adreça d'enviament</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>L'adreça introduïda «%1» no és una adreça de Bitcoin vàlida.</translation>
+        <source>The entered address "%1" is not a valid Worldcoin address.</source>
+        <translation>L'adreça introduïda «%1» no és una adreça de Worldcoin vàlida.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -972,8 +972,8 @@ Això és ideal per a carteres de mode només lectura.</translation>
         <translation>Utilitza un directori de dades personalitzat:</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Worldcoin</source>
+        <translation>Worldcoin</translation>
     </message>
     <message>
         <source>Discard blocks after verification, except most recent %1 GB (prune)</source>
@@ -988,8 +988,8 @@ Això és ideal per a carteres de mode només lectura.</translation>
         <translation>Aproximadament %1GB de dades seran emmagetzamades en aquest directori.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Bitcoin block chain.</source>
-        <translation>%1 descarregarà i emmagatzemarà una còpia de la cadena de blocs Bitcoin.</translation>
+        <source>%1 will download and store a copy of the Worldcoin block chain.</source>
+        <translation>%1 descarregarà i emmagatzemarà una còpia de la cadena de blocs Worldcoin.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1079,7 +1079,7 @@ Això és ideal per a carteres de mode només lectura.</translation>
     <name>OpenURIDialog</name>
     <message>
         <source>Open bitcoin URI</source>
-        <translation>Obre Bitcoin URI</translation>
+        <translation>Obre Worldcoin URI</translation>
     </message>
     <message>
         <source>URI:</source>
@@ -1224,8 +1224,8 @@ Això és ideal per a carteres de mode només lectura.</translation>
         <translation>&amp;Gasta el canvi sense confirmar</translation>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obre el port del client de Bitcoin al router de forma automàtica. Això només funciona quan el router implementa UPnP i l'opció està activada.</translation>
+        <source>Automatically open the Worldcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obre el port del client de Worldcoin al router de forma automàtica. Això només funciona quan el router implementa UPnP i l'opció està activada.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1240,8 +1240,8 @@ Això és ideal per a carteres de mode només lectura.</translation>
         <translation>Permet connexions entrants</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>Connecta a la xarxa Bitcoin a través d'un proxy SOCKS5.</translation>
+        <source>Connect to the Worldcoin network through a SOCKS5 proxy.</source>
+        <translation>Connecta a la xarxa Worldcoin a través d'un proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1276,8 +1276,8 @@ Això és ideal per a carteres de mode només lectura.</translation>
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Conectar a la red de Bitcoin a través de un proxy SOCKS5 per als serveis ocults de Tor</translation>
+        <source>Connect to the Worldcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Conectar a la red de Worldcoin a través de un proxy SOCKS5 per als serveis ocults de Tor</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1387,8 +1387,8 @@ Això és ideal per a carteres de mode només lectura.</translation>
         <translation>Formulari</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot no estar al dia. El vostra cartera se sincronitza automàticament amb la xarxa Bitcoin un cop s'ha establert connexió, però aquest proces encara no ha finalitzat.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Worldcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot no estar al dia. El vostra cartera se sincronitza automàticament amb la xarxa Worldcoin un cop s'ha establert connexió, però aquest proces encara no ha finalitzat.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1462,8 +1462,8 @@ Això és ideal per a carteres de mode només lectura.</translation>
         <translation>Error de la sol·licitud de pagament</translation>
     </message>
     <message>
-        <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>No es pot iniciar bitcoin: controlador click-to-pay</translation>
+        <source>Cannot start worldcoin: click-to-pay handler</source>
+        <translation>No es pot iniciar worldcoin: controlador click-to-pay</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1490,8 +1490,8 @@ Això és ideal per a carteres de mode només lectura.</translation>
         <translation>Adreça de pagament no vàlida %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>L'URI no pot ser analitzat! Això pot ser a causa d'una adreça de Bitcoin no vàlida o per paràmetres URI amb mal format.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Worldcoin address or malformed URI parameters.</source>
+        <translation>L'URI no pot ser analitzat! Això pot ser a causa d'una adreça de Worldcoin no vàlida o per paràmetres URI amb mal format.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1532,8 +1532,8 @@ Això és ideal per a carteres de mode només lectura.</translation>
         <translation>Import</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Introduïu una adreça de Bitcoin (p. ex. %1)</translation>
+        <source>Enter a Worldcoin address (e.g. %1)</source>
+        <translation>Introduïu una adreça de Worldcoin (p. ex. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2001,8 +2001,8 @@ Això és ideal per a carteres de mode només lectura.</translation>
         <translation>&amp;Missatge:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>Un missatge opcional que s'adjuntarà a la sol·licitud de pagament, que es mostrarà quan s'obri la sol·licitud. Nota: El missatge no s'enviarà amb el pagament per la xarxa Bitcoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Worldcoin network.</source>
+        <translation>Un missatge opcional que s'adjuntarà a la sol·licitud de pagament, que es mostrarà quan s'obri la sol·licitud. Nota: El missatge no s'enviarà amb el pagament per la xarxa Worldcoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2354,7 +2354,7 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>Creació sense firmar</translation>
     </message>
     <message>
-        <source>Creates a Partially Signed Bitcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <source>Creates a Partially Signed Worldcoin Transaction (PSBT) for use with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
         <translation>Crea una transacció bitcoin parcialment signada (PSBT) per a utilitzar, per exemple,  amb una cartera %1 fora de línia o amb una cartera compatible amb PSBT.</translation>
     </message>
     <message>
@@ -2378,8 +2378,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>Esteu segur que ho voleu enviar?</translation>
     </message>
     <message>
-        <source>Please, review your transaction proposal. This will produce a Partially Signed Bitcoin Transaction (PSBT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
-        <translation>Revisa la teva proposta de transacció. Es produirà una transacció de Bitcoin amb signatura parcial (PSBT) que podeu copiar i després signar, per exemple, amb una cartera %1 de tipus fora de línia o una cartera física compatible amb PSBT.</translation>
+        <source>Please, review your transaction proposal. This will produce a Partially Signed Worldcoin Transaction (PSBT) which you can copy and then sign with e.g. an offline %1 wallet, or a PSBT-compatible hardware wallet.</source>
+        <translation>Revisa la teva proposta de transacció. Es produirà una transacció de Worldcoin amb signatura parcial (PSBT) que podeu copiar i després signar, per exemple, amb una cartera %1 de tipus fora de línia o una cartera física compatible amb PSBT.</translation>
     </message>
     <message>
         <source>or</source>
@@ -2470,8 +2470,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation><numerusform>S’estima que comenci la confirmació dintre d'un bloc.</numerusform><numerusform>S’estima que comenci la confirmació dintre de %n blocs.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation>Avís: adreça Bitcoin no vàlida</translation>
+        <source>Warning: Invalid Worldcoin address</source>
+        <translation>Avís: adreça Worldcoin no vàlida</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2509,8 +2509,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>Escull una adreça feta servir anteriorment</translation>
     </message>
     <message>
-        <source>The Bitcoin address to send the payment to</source>
-        <translation>L'adreça Bitcoin on enviar el pagament</translation>
+        <source>The Worldcoin address to send the payment to</source>
+        <translation>L'adreça Worldcoin on enviar el pagament</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2561,8 +2561,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>Introduïu una etiqueta per a aquesta adreça per afegir-la a la llista d'adreces utilitzades</translation>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Un missatge que s'ha adjuntat al bitcoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa Bitcoin.</translation>
+        <source>A message that was attached to the worldcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Worldcoin network.</source>
+        <translation>Un missatge que s'ha adjuntat al worldcoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa Worldcoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2599,8 +2599,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>Podeu signar missatges/acords amb les vostres adreces per provar que rebeu les bitcoins que s'hi envien. Aneu amb compte no signar res que sigui vague o aleatori, perquè en alguns atacs de suplantació es pot provar que hi signeu la vostra identitat. Només signeu aquelles declaracions completament detallades en què hi esteu d'acord. </translation>
     </message>
     <message>
-        <source>The Bitcoin address to sign the message with</source>
-        <translation>L'adreça Bitcoin amb què signar el missatge</translation>
+        <source>The Worldcoin address to sign the message with</source>
+        <translation>L'adreça Worldcoin amb què signar el missatge</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2631,8 +2631,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>Copia la signatura actual al porta-retalls del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Signa el missatge per provar que ets propietari d'aquesta adreça Bitcoin</translation>
+        <source>Sign the message to prove you own this Worldcoin address</source>
+        <translation>Signa el missatge per provar que ets propietari d'aquesta adreça Worldcoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2655,8 +2655,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>Introduïu l'adreça del receptor, el missatge (assegureu-vos de copiar els salts de línia, espais, tabuladors, etc. exactament) i signatura de sota per verificar el missatge. Tingueu cura de no llegir més en la signatura del que està al missatge signat, per evitar ser enganyat per un atac d'home-en-el-mig. Tingueu en compte que això només demostra que la part que signa rep amb l'adreça, i no es pot provar l'enviament de qualsevol transacció!</translation>
     </message>
     <message>
-        <source>The Bitcoin address the message was signed with</source>
-        <translation>L'adreça Bitcoin amb què va ser signat el missatge</translation>
+        <source>The Worldcoin address the message was signed with</source>
+        <translation>L'adreça Worldcoin amb què va ser signat el missatge</translation>
     </message>
     <message>
         <source>The signed message to verify</source>
@@ -2667,8 +2667,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>La signatura donada quan es va signar el missatge</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Bitcoin específica</translation>
+        <source>Verify the message to ensure it was signed with the specified Worldcoin address</source>
+        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Worldcoin específica</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
